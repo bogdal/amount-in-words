@@ -17,9 +17,11 @@ Example
 
 ::
 
-    from amount_in_words import Amount
+    >>> from amount_in_words import Amount
 
-    Amount.in_words('123.45')
+    >>> Amount.in_words('123.45')
+
+    sto dwadzieścia trzy złote i czterdzieści pięć groszy
 
 
 
