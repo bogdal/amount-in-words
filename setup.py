@@ -21,4 +21,5 @@ setup(
                  'Topic :: Utilities'
     ],
     zip_safe = False,
+    test_suite = "amount_in_words.tests"
 )
